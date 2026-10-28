@@ -1,0 +1,10 @@
+out/
+
+test/
+__pycache__/
+*.ass
+*.json.cache
+.DS_Store
+inbox/
+results/
+*.zip

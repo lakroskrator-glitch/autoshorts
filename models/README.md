@@ -1,0 +1,1 @@
+`face_detection_yunet_2023mar.onnx` — детектор лиц YuNet из [OpenCV Zoo](https://github.com/opencv/opencv_zoo/tree/main/models/face_detection_yunet), лицензия MIT (Shiqi Yu). Используется через `cv2.FaceDetectorYN`; видит повёрнутые и мелкие лица заметно лучше haar-каскадов.

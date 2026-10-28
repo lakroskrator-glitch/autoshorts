@@ -1,0 +1,6 @@
+faster-whisper>=1.1        # large-v3-turbo появился в 1.1
+numpy
+pillow
+opencv-python-headless<5   # 5.x без haar-каскадов: без него вебка/лицо не ищутся, кадр по центру
+anthropic>=2.0             # только для --ai
+yt-dlp>=2024.1
